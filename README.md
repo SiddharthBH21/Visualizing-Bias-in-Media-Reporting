@@ -39,6 +39,8 @@ Offers a user-friendly, exploratory interface that helps analysts, researchers, 
 
 https://www.loom.com/share/c5510d4c085b46bf811c43303d070b4c?sid=87ea8b32-8cbd-4e45-bccb-54097582a1c2
 
+https://www.loom.com/share/f996c8ba509b4b59ae5865b96f5bba9a?sid=497360c4-4eba-4449-bc74-8c9878d9305e
+
 ## 💡 Use Cases
 ● Policy & Journalism: Understand bias trends and misinformation patterns in real time
 
