@@ -37,6 +37,8 @@ Users can track how specific sub-narratives evolve over days, weeks, or months�
 
 Offers a user-friendly, exploratory interface that helps analysts, researchers, or media watchdogs identify trends and shifts in tone, bias, or topic emphasis.
 
+https://www.loom.com/share/c5510d4c085b46bf811c43303d070b4c?sid=87ea8b32-8cbd-4e45-bccb-54097582a1c2
+
 ## 💡 Use Cases
 ● Policy & Journalism: Understand bias trends and misinformation patterns in real time
 
